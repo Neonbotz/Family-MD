@@ -36,7 +36,7 @@ module.exports = {
         global.colong1 = 'Ciss 📸'
         global.colong2 = 'zifabotz'
         global.kontak2 = [
-        ['6287773973818', '𝘼𝙜𝙪𝙯 𝙁𝙖𝙢𝙞𝙡𝙞𝙖', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'FokusDotId13@gmail.com', true],
+        ['6287773973818', 'zifabot,', 'by.rozi', 'anidaanida59@gmail.com', true],
         ['6287773973818', await this.getName('6283823916413@s.whatsapp.net'), 'zifabotz', 'anidaanida59@gmail.com', true],
         ['6287773973818', 'zifabotz', 'Bot WhatsApp', 'Nothing!', true],
         ['6287773973818', await this.getName('6287773973818@s.whatsapp.net'), 'zifabotz', 'anidaanida59@gmail.com', true],
