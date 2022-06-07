@@ -37,11 +37,11 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/zalfapontianak"
+global.urlnya = "https://www.instagram.com/yt.agungxx"
 
 //============= callButtons =============//
 global.dtc = 'ye!'
-global.phn = '+62 877-7397-3818'
+global.phn = '+62 877-1942-4487'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
