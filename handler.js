@@ -30,17 +30,17 @@ module.exports = {
         global.namabot = conn.user.name
         global.packname = global.namabot
         global.author = global.data.owner
-        //global.author = 'zifabotz'
+        //global.author = 'Agungx え'
         global.wm2 = global.data.namabot + ' ' + global.data.owner
-        global.wm = namabot + ' by rozi'
+        global.wm = namabot + 'By Agung え'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'zifabotz'
+        global.colong2 = 'zi'
         global.kontak2 = [
-        ['6287773973818', 'zifabot,', 'by.rozi', 'anidaanida59@gmail.com', true],
-        ['6287773973818', await this.getName('6283823916413@s.whatsapp.net'), 'zifabotz', 'anidaanida59@gmail.com', true],
-        ['6287773973818', 'zifabotz', 'Bot WhatsApp', 'Nothing!', true],
-        ['6287773973818', await this.getName('6287773973818@s.whatsapp.net'), 'zifabotz', 'anidaanida59@gmail.com', true],
-        ['6287773973818', await this.getName('6287773973818@s.whatsapp.net'), 'zifabotz', 'anidaanida59@gmail.com', true],
+        ['6287719424487', 'zifabotz', 'No Owner', 'xnxx.com', true],
+        ['6282226078871', await this.getName('6282226078871@s.whatsapp.net'), 'zifabotz', 'AdiTzy.co.id', true],
+        ['6287719424487', 'zifabotz', 'No Owner', 'Nothing!', true],
+        ['6281368176386', await this.getName('6281368176386@s.whatsapp.net'), 'zifabotz', 'EgaTzy.co.id', true],
+        ['6287719424487', await this.getName('6287719424487@s.whatsapp.net'), 'zifabotz', 'xnxx.com', true],
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
